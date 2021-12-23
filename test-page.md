@@ -1,6 +1,3 @@
-<html>
-<body>
-
 <h1>The onclick Event</h1>
 
 <p>The onclick event is used to trigger a function when an element is clicked on.</p>
@@ -16,6 +13,3 @@ function myFunction() {
   document.getElementById("demo").innerHTML = "Hello World";
 }
 </script>
-
-</body>
-</html>
