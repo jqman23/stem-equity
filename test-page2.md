@@ -1,4 +1,8 @@
-<div class="container">
+<!DOCTYPE html>
+<link rel="stylesheet" type="text/css" href="https://jqman23.github.io/style.css">
+<html>
+    <body>
+      <div class="container">
   <div class="card card0">
     <div class="border">
       <h2>Al Pacino</h2>
@@ -36,3 +40,5 @@
     </div>
   </div>
 </div>
+</body>
+</html>
