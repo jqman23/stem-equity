@@ -1,5 +1,7 @@
 <html>
+    <head>
     <link rel="stylesheet" type="text/css" href="https://jqman23.github.io/style.css">
+</head>
     <body>
       <div class="container">
   <div class="card card0">
